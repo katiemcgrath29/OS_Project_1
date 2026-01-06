@@ -1,12 +1,12 @@
 # OS_Project_1
-This is my Operating Systems Project 1 on **Disk Scheduling Algorithms**.
+This is my Operating Systems Project 1 on **Victim Replacement Algorithms**.
 <br/>
 <br/>:mortar_board: **Implements the following:**
     <br/> 1. Least Recently Used
     <br/>2. Least Recently Used with Aging
 <br/>
 <br/>:lock: **Challenges I Faced:**
-    <br/>This was my first time working with a Disk Scheduling simulator, so it took 
+    <br/>This was my first time working with a Victim Replacement simulator, so it took 
     <br/> some time to get used to. 
     <br/> I struggled to answer the questions in the document in full detail, due to
     <br/> the time constraint. 
