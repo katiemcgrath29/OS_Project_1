@@ -1,6 +1,5 @@
 # OS_Project_1
 This is my Operating Systems Project 1 on **Disk Scheduling Algorithms**.
-
 <br/>
 <br/>:mortar_board: **Implements the following:**
     <br/> 1. Least Recently Used
